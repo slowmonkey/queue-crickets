@@ -1,4 +1,4 @@
-package com.slowmonkeycodes.queuethecrickets
+package com.slowmonkeycodes.queuecrickets
 
 import android.media.MediaPlayer
 import androidx.appcompat.app.AppCompatActivity

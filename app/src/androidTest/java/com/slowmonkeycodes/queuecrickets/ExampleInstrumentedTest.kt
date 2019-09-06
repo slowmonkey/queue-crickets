@@ -1,4 +1,4 @@
-package com.slowmonkeycodes.queuethecrickets
+package com.slowmonkeycodes.queuecrickets
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

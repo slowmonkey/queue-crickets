@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
-    package="com.slowmonkeycodes.queuethecrickets">
+    package="com.slowmonkeycodes.queuecrickets">
 
     <dist:module dist:instant="true" />
 
@@ -12,7 +12,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.slowmonkeycodes.queuecrickets.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

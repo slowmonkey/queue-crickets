@@ -1,4 +1,4 @@
-# QUEUE THE CRICKETS Android App
+# QUEUE CRICKETS Android App
 
 cite: Crickets sound obtained from: https://www.soundboard.com/sb/sound/961311
 
