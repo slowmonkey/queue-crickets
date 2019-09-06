@@ -19,7 +19,6 @@ class MainActivity : AppCompatActivity() {
         queueTheCricketsButton.isSoundEffectsEnabled = false
 
         queueTheCricketsButton.setOnClickListener {
-            // Crickets sound obtained from: https://www.soundboard.com/sb/sound/961311
             mediaPlayer = MediaPlayer.create(this, R.raw.crickets)
             mediaPlayer?.start()
         }
