@@ -11,13 +11,14 @@ android {
         applicationId "com.slowmonkeycodes.queuethecrickets"
         minSdkVersion 28
         targetSdkVersion 28
-        versionCode 2
-        versionName "2019-09-09.2"
+        versionCode 3
+        versionName "2019-09-09.3"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled true
+            shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
